@@ -15,4 +15,4 @@ for chapter in chap_numbers:
 	f.close()
 	i=i+1
 
-print chap_words[2]
+print chap_words[0]
